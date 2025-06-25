@@ -1,16 +1,19 @@
-## Hi there 👋
+## 👋 Hi there, I'm Yeeun!
 
-<!--
-**yeeunnnn05/yeeunnnn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 🔭 I’m currently working on: *[your cool project here]*
+- 🌱 I’m currently learning: *[technologies/tools you're diving into]*
+- 👯 I’m looking to collaborate on: *[open source, web dev, ML, etc.]*
+- 💬 Ask me about: *[areas you feel confident about or excited to share]*
+- 📫 How to reach me: *[email or LinkedIn]*
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: *I [fun fact here]!*
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+*(Add more as needed)*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Yeeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeunnnn05&show_icons=true&theme=radical)
