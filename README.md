@@ -4,8 +4,8 @@
 ---
 
 ### 🌟 About Me
-- 🎓 I’m a **[your major/field]** student at **[your university or bootcamp]**
-- 🌱 Currently learning **[React, TypeScript, AI, etc.]**
+- 🎓 I’m a Department of Computer Engineering student at Seowon University
+- 🌱 Currently learning C, Python
 - 🔭 Working on **[Project Name or Short Description]**
 - 👯 Looking to collaborate on **Open Source / Frontend / AI projects**
 - 💬 Ask me about **Git, Web Dev, or anything tech!**
